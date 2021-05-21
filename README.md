@@ -6,8 +6,7 @@ I used Swift and Storyboards to make it :)
 
 ## Take a look!
 
-![Image](https://user-images.githubusercontent.com/76634692/119073707-c8928300-b9bb-11eb-9c98-08c3cbbfcbff.png)
-
+![Image](https://user-images.githubusercontent.com/76634692/119073707-c8928300-b9bb-11eb-9c98-08c3cbbfcbff.png | width=100)
 
 ## Importart:
 
