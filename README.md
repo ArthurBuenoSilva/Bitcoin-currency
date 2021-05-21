@@ -8,7 +8,7 @@ I used Swift and Storyboards to make it :)
 
 <img src="https://user-images.githubusercontent.com/76634692/119073707-c8928300-b9bb-11eb-9c98-08c3cbbfcbff.png" height="800">
 
-## Importart:
+## Important:
 
 I'm using my own API Key and its will expire soon(or already expired...), so you'll need to generate your own API Key:
 
