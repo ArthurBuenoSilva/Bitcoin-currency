@@ -1,6 +1,6 @@
 # Bitcoin-currency
 
-That's a simple and useful project for your to see the Bitcoin quote in different currencies!
+That's a useful project for you to see the Bitcoin quote in different currencies!
 
 I made a API rest from The Bitcoin Average API using Swift and the layout using Storyboards :)
 
