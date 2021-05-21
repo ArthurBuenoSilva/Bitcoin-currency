@@ -2,7 +2,7 @@
 
 That's a simple and useful project for your to see the Bitcoin quote in different currencies!
 
-I used Swift and Storyboards to make it :)
+I made a API rest from The Bitcoin Average API using Swift and the layout using Storyboards :)
 
 ## Take a look!
 
